@@ -9,3 +9,4 @@ Here I store the useful links provided in the class.
 * [Data Source Handbook](http://www.amazon.com/Data-Source-Handbook-Pete-Warden/dp/1449303145/)
 * [NYT Developers Site](http://developer.nytimes.com)
 * [Paul Graham on Naive Bayes](http://www.paulgraham.com/naivebayes.html)
+* [Porter Stemming Algorithm](http://tartarus.org/~martin/PorterStemmer/def.txt)
