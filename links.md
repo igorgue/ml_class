@@ -10,3 +10,7 @@ Here I store the useful links provided in the class.
 * [NYT Developers Site](http://developer.nytimes.com)
 * [Paul Graham on Naive Bayes](http://www.paulgraham.com/naivebayes.html)
 * [Porter Stemming Algorithm](http://tartarus.org/~martin/PorterStemmer/def.txt)
+* [Wordnet](http://wordnet.princeton.edu/)
+* [Wordnik](http://www.wordnik.com/)
+* [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+* [Bayes Classification in Ruby](http://www.igvita.com/2007/05/23/bayes-classification-in-ruby/)
