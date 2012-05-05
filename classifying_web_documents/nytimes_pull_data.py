@@ -12,12 +12,12 @@ def main(api_key, category, label):
     content = []
 
     for i in range(0, 5):
-        url = 'http://api.nytimes.com/svc/search/v1/article?query=classifiers_facet={0}&api-key={1}&offset={2}'.format(category, api_key, i)
+        url = 'http://api.nytimes.com/svc/search/v1/article?query=classifiers_facet:{0}&api-key={1}&offset={2}'.format(category, api_key, i)
         h = urllib.urlopen(url)
         data = json.loads(h.read())
 
         for results in data['results']:
-            content.append(result['body'])
+            content.append(results['body'])
 
     f = open(label, 'w')
 
