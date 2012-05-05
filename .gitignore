@@ -20,9 +20,11 @@ pip-log.txt
 .coverage
 .tox
 
-#Translations
+# Translations
 *.mo
 
-#Mr Developer
+# Mr Developer
 .mr.developer.cfg
 
+# ML Class
+classifying_web_documents/api_keys.py

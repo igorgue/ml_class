@@ -5,4 +5,6 @@ Here I store the useful links provided in the class.
 
 ## Datasets
 
-* [http://delicious.com/pskomoroch/dataset](http://delicious.com/pskomoroch/dataset)
+* [pskomoroch's Dataset Bookmarks](http://delicious.com/pskomoroch/dataset)
+* [Data Source Handbook](http://www.amazon.com/Data-Source-Handbook-Pete-Warden/dp/1449303145/)
+* [NYT Developers Site](http://developer.nytimes.com)
